@@ -1,0 +1,10 @@
+/* .container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+} */
+
+.account-address-right-bar{
+    border: 1px dashed white;
+    padding: 2px 4px;
+    color: white;
+}
