@@ -15,5 +15,5 @@ For Prototype purpose, I've stored video with the project, in another scenario e
 Each video can be encrypted with a different key before streaming it to the user. It will help in identifying the leak in case of somebody is distributing the videos without approval.
 
 ### Demo
-Online demo for this application is present at - [https://maps.ajitsingh.co]
+
 Demo video is present at - [https://maps.ajitsingh.co/assests/MAPS-Demo.mp4]
