@@ -16,4 +16,4 @@ Each video can be encrypted with a different key before streaming it to the user
 
 ### Demo
 
-Demo video is present at - [https://maps.ajitsingh.co/assests/MAPS-Demo.mp4]
+Demo video is present at - [https://drive.google.com/open?id=1PO40VQzTTzjAdVSanR75QcuYRSxe0ljh]
